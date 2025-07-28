@@ -57,7 +57,7 @@ career-recommendation-system/
 ---
  🖥️ How to Run Locally
  1️⃣ Clone the Repository
-git clone https://github.com/Janhavi-Bahale/career-recommendation-system.git
+git clone https://github.com/Janhavi-Bahale/AI-Based-career-recommendation--system.git
 cd career-recommendation-system
 
 2️⃣ Install Dependencies
